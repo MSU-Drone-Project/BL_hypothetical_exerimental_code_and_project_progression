@@ -1,4 +1,5 @@
 # BL_hypothetical_routes_code_ore
 
 
-Achrive of hypothesis and parts of code that i think will be useful
+Achrive of hypothesis and confurmation of code. 
+that I think will be useful
