@@ -23,9 +23,9 @@ Item index:
 <!DOCTYPE html> 
 <html> 
 <head> 
-    <title> 
+
         How to insert spaces/tabs in text using HTML/CSS? 
-    </title> 
+
     <style> 
         .tab1 { 
             tab-size: 2; 
