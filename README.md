@@ -3,3 +3,8 @@
 
 Achrive of hypothesis and confurmation of code. 
 That I think will be useful
+
+Item index:
+
+drone motor control
+/t test
