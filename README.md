@@ -2,4 +2,4 @@
 
 
 Achrive of hypothesis and confurmation of code. 
-that I think will be useful
+That I think will be useful
