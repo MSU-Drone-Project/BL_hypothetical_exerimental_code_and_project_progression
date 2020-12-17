@@ -1,4 +1,4 @@
-#BL_hypothetical_exerimental_code_and_project_progression
+# BL_hypothetical_exerimental_code_and_project_progression
 
 <p>
 Achrive of hypothesis and confurmation of code. 
