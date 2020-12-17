@@ -6,7 +6,7 @@ That I think will be useful
 
 Item index:
 
- .tab{tab-size:4}drone motor control
+ .tab {tab-size:4}drone motor control
 
 </p>
 
