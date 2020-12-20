@@ -19,6 +19,7 @@ Seems it was normal to control them via micro controler.
 **to be continued**
 
 ### read from sensors
+**current objective** to read from sensor to obtain numerical output from direct connect to jetson nano.
 
 todo
 
