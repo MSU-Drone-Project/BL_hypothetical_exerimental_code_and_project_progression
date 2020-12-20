@@ -6,11 +6,11 @@ Microcomputer [jetson nano datasheet](https://developer.download.nvidia.com/asse
 modual 2.4GHz,5.0 GHz,Bluetooth 4.2
 [buy](https://www.amazon.com/gp/product/B07SGDRG34/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) $24.99
 
-[case for jenson nano](https://www.amazon.com/gp/product/B07TH8NBWF/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+[case for jenson nano](https://www.amazon.com/gp/product/B07TH8NBWF/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)$17.99
 
-power supply for microcomputer [buy](https://www.amazon.com/gp/product/B01N4HYWAM/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
+power supply for microcomputer [buy](https://www.amazon.com/gp/product/B01N4HYWAM/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)$9.99
 
-[velcro](https://www.amazon.com/gp/product/B085FSQZ3K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+[velcro](https://www.amazon.com/gp/product/B085FSQZ3K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)$12.72
 
 [IMU Sensor](https://3cfeqx1hf82y3xcoull08ihx-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf)
 [buy](https://www.amazon.com/gp/product/B01I1J0Z7Y/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)$8.99
