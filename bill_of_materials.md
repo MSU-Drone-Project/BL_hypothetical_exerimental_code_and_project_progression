@@ -25,10 +25,10 @@ power supply for microcomputer [buy](https://www.amazon.com/gp/product/B01N4HYWA
 
 [Lipo charger](https://www.amazon.com/gp/product/B00466PKE0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)$64.99
 
-[drone motor esc set 4S](https://store-en.tmotor.com/goods.php?id=726)
+[drone motor esc set 4S](https://store-en.tmotor.com/goods.php?id=726)$129.99
 
 [Arduino Nano 33 BLE Sense datasheet](https://store.arduino.cc/usa/nano-33-ble-sense-with-headers?queryID=undefined)
-[buy](https://www.amazon.com/gp/product/B07WXKDVTL/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)
+[buy](https://www.amazon.com/gp/product/B07WXKDVTL/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)$36.00
 
 
 
