@@ -19,7 +19,9 @@ Seems it was normal to control them via micro controler.
 **to be continued**
 
 ### basic setup of jetson nano
-**current objective** boot up and understand jetson nano
+**current objective**
+boot up and understand jetson nano
+
 todo
 
 
