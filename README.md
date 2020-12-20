@@ -23,7 +23,7 @@ Seems it was normal to control them via micro controler.
 
 todo
 
-### mircocontroler and microcomputer communication 
+### microcontroler and microcomputer communication 
 todo
 
 ### wifi communication
