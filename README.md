@@ -2,7 +2,7 @@
 
 
 ## objectives
-
+Ment to be an example of a project progression checklist and interconnects
 
 
 ### spin motor 
@@ -15,6 +15,8 @@ more investigation into calbration of ESCs
 
 Was looking in to jetson nano then asked on its forum for pwm commands.
 Seems it was normal to control them via micro controler. 
+
+**to be continued**
 
 ### read from sensors
 
