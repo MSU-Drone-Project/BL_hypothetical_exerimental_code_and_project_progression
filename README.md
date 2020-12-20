@@ -9,7 +9,7 @@
 Motor selected is 3 phase.
 Motors are spun with ESCs(electronic speed controlers) with servo commands via GPIO pins.
 
-sucess with ardurino umo 
+sucess with ardurino uno 
 although no control more investagation needed.
 more investigation into calbration of ESCs
 
