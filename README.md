@@ -8,7 +8,7 @@ Ment to be an example of a project progression checklist and interconnects
 select a motor and power it
 
 selected motor was 4S
- S =3.7V
+ S = 3.7V
  
  battery selection for motor
  4S lipo
@@ -36,17 +36,17 @@ Seems it was normal to control them via micro controler.
 **to be continued**
 
 ### basic setup of jetson nano
-**current objective**
+
 boot up and understand jetson nano
 
-todo
+**completed**
 
 
 ### read from sensors
  to read from sensor to obtain numerical output from direct connect to jetson nano.
  I2C interface
 
-todo
+**current objective**
 
 ### microcontroler and microcomputer communication 
 verify controled data input and integerity on the other device 2 way. 
