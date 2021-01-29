@@ -74,6 +74,8 @@ elevation from pressure caluculation
 dew point from calculation
 data read
 
+*extra item*
+
 need to consider data output device
 
 
@@ -86,5 +88,6 @@ standard visual spectrum and ifrared camera
 get raw image 
 Machine learning and/or deep learning might be interesting 
 
+*extra item*
 
 todo
