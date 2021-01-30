@@ -62,7 +62,7 @@ controler selection needed or app or micro controler
 verify controled data input and integerity on the other device 2 way. 
 although, 1 way might only be needed.
 
-~major task~
+*major task*
 
 **todo**
 
@@ -70,7 +70,7 @@ although, 1 way might only be needed.
 function interaction basied on sensor inputs to calbrate balanced flight
 no propeller tilt test
 
-~ major task ~
+*major task*
 
 todo
 
