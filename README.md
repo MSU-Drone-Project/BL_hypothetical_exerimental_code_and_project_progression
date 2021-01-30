@@ -42,17 +42,19 @@ boot up and understand jetson nano
 **completed**
 
 
-### read from sensors
+~~### read from sensors
  to read from sensor to obtain numerical output from direct connect to jetson nano.
- I2C interface
+ I2C interface~~
 
-**current objective**
+**changed to slaved Audrino nano 33 ble sense**
 
 ### microcontroler and microcomputer communication 
 verify controled data input and integerity on the other device 2 way. 
-although, 1 way might only be needed..
+although, 1 way might only be needed...
 
-todo
+Audrino nano 33 ble sense is selected for reduction incomplexity.
+ 
+** current task **
 
 ### wifi communication to controler
 controler selection needed or app or micro controler
@@ -60,11 +62,15 @@ controler selection needed or app or micro controler
 verify controled data input and integerity on the other device 2 way. 
 although, 1 way might only be needed.
 
-todo
+~major task~
+
+**todo**
 
 ### balanced flight
 function interaction basied on sensor inputs to calbrate balanced flight
 no propeller tilt test
+
+~ major task ~
 
 todo
 
