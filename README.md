@@ -74,6 +74,24 @@ no propeller tilt test
 
 todo
 
+### flight control functions
+write code for flight control function
+
+forsight is 
+cc and ccw  for pitch roll yah
+
+6 functions expected
+
+attempt for simple flight d pad
+
+input current motor speed
+
+overwites 2 motors to reduce speed
+
+*major task*
+
+todo
+
 ### read from extra sensors
 
 elevation from pressure caluculation
